@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Account Success Part 2</title>
+    </head>
+    <body>
+        <h1>Hi Ale </h1>
+        <p>Modify the sign up flow to add a new screen after the  "You have create your account" one. For the content definition you can use one of the existing ones. You are free to put a hardcode message in that new screen, i just want to see it.</p>
+    </body>
+</html>
